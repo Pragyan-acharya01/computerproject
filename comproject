@@ -1,0 +1,68 @@
+<html>
+<head>
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: yellow;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="myDiv">
+  <h2>Portfolio</h2>
+  <p>Pragyan Acharya</p>
+</div>
+<hr>
+<body bgcolor="lightblue">
+<p style= "font size: 25 px">
+Name: Pragyan Acharya <br>
+Age : 14 <br>
+Gender: Male <br>
+DoB: 12/23/2008 <br>
+Address: Dhunge adda <br>
+Current grade: 9 <br>
+School: Millsberry School<br>
+
+Hobbies:
+<ol>
+<li> playing video games </li>
+<li> playing sports </li>
+<li> travelling </li>
+<li> Reading books </li>
+</ol>
+Educational qualification :
+<table border =" 5">
+<tr>
+<th> S.N </th>
+<th> School/Academy </th>
+<th> grade </th>
+</tr>
+<tr>
+<td>1. </td>
+<td>Millsberry Pre- School </td>
+<td>  A </td>
+</tr>
+<tr>
+<td> 2. </td>
+<td> Millsberry School </td>
+<td> A </td>
+</tr>
+</table>
+<br>
+About Millsberry school: <br>
+<a href="https://www.millsberry.edu.np">Visit Millsberry.com!</a>
+<br>
+<br>
+Contact: 9841687653 <br> 
+Email: pragyanishungry419.99@gmail.com
+<hr>
+</style><br>
+</head><br>
+<body><br>
+<div class="myDiv">
+  <h2>Thank you!</h2>
+</div>
+</body>
+</html>
